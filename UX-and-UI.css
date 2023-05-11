@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/Capture9.JPG");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
   background-position: 50% 50%;
 }
 
@@ -214,7 +214,6 @@
 
 .u-section-3 .u-image-1 {
   min-height: 304px;
-  background-image: url("images/ux.JPG");
   background-position: 50% 50%;
 }
 
