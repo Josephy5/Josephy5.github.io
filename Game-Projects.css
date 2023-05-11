@@ -1,10 +1,10 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/Untitled-1.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05));
   background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 266px;
+  min-height: 276px;
 }
 
 .u-section-1 .u-group-1 {
@@ -16,7 +16,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: 83px auto 60px;
+  margin: 93px auto 60px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -54,7 +54,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 219px;
+    min-height: 228px;
   }
 
   .u-section-1 .u-group-1 {
@@ -73,7 +73,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 168px;
+    min-height: 175px;
   }
 
   .u-section-1 .u-group-1 {
@@ -83,7 +83,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 126px;
+    min-height: 131px;
   }
 
   .u-section-1 .u-group-1 {
@@ -103,7 +103,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 79px;
+    min-height: 82px;
   }
 
   .u-section-1 .u-group-1 {
@@ -135,7 +135,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 430px;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/thumbnail_alt.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05));
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
@@ -410,7 +410,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 430px;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/Logo.JPG");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05));
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
@@ -565,7 +565,6 @@
 
 .u-section-4 .u-image-1 {
   min-height: 430px;
-  background-image: url("images/buttonIcon.png");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
@@ -831,7 +830,7 @@
 
 .u-section-5 .u-image-1 {
   min-height: 430px;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/Untitled-11.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05));
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;

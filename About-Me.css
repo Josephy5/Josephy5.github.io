@@ -205,6 +205,10 @@
     min-height: 100px;
   }
 
+  .u-section-1 .u-container-layout-1 {
+    padding: 0;
+  }
+
   .u-section-1 .u-text-2 {
     margin-left: 3px;
     margin-right: 3px;
@@ -212,6 +216,10 @@
 
   .u-section-1 .u-layout-cell-2 {
     min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-bottom: 0;
   }
 
   .u-section-1 .u-text-3 {
